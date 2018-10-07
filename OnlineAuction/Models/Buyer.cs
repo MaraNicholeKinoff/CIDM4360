@@ -5,8 +5,8 @@ namespace OnlineAuction.Models
         
         #region Methods
 
-        public static void CreateBid() { }
-        public static void ViewAuction() { }
+            public static void CreateBid() { }
+            public static void ViewAuction() { }
             
         #endregion
     }
