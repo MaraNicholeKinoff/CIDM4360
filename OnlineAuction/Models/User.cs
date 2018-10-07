@@ -2,6 +2,9 @@
 
 namespace OnlineAuction.Models
 {
+    /// <summary>
+    /// This defines a generic user class for derived classes to share the properties and methods from
+    /// </summary>
     public class User
     {
         #region Properties
